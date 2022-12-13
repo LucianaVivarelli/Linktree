@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@900&family=Cormorant+SC:wght@700&family=Merriweather:ital,wght@1,300&family=Unbounded&display=swap'); 
+
+.perfil_all{
+    margin:35px 0;
+    text-align: center;
+    color: var(--cor-terciaria);
+}
+
+.image_Perfil{
+    
+    display:block;
+    margin: auto;
+    width: 6.8rem;
+    height: 8rem;
+  
+    border-radius: 50%;
+
+}
+.perfil-conteaner{
+    font-family: 'Unbounded', cursive;
+
+}
